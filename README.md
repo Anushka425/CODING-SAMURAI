@@ -1,5 +1,4 @@
-# CODING-SAMURAI
-Coding Samurai Internship Task : Python Development
+Python Development Project
 
 **Project Title: Weather Forecast Application**
 
